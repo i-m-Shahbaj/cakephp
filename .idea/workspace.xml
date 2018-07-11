@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a56c4e7-272b-4422-883d-e3561b499fb5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/myapp/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ErrorController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/src/Controller/ErrorController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Application.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/src/Application.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="77" selection-end-column="43" />
+              <folding>
+                <element signature="e#817#838#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myapp/config/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="315" column="14" lean-forward="true" selection-start-line="314" selection-start-column="7" selection-end-line="315" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PagesController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/src/Controller/PagesController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myapp/config/routes.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/myapp/vendor/composer" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/myapp/vendor/m1/env" />
+      <path value="$PROJECT_DIR$/myapp/vendor/aura/intl" />
+      <path value="$PROJECT_DIR$/myapp/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/myapp/vendor/robmorgan/phinx" />
+      <path value="$PROJECT_DIR$/myapp/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/myapp/vendor/jasny/twig-extensions" />
+      <path value="$PROJECT_DIR$/myapp/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/myapp/vendor/aptoma/twig-markdown" />
+      <path value="$PROJECT_DIR$/myapp/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/myapp/vendor/asm89/twig-cache-extension" />
+      <path value="$PROJECT_DIR$/myapp/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/myapp/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/myapp/vendor/josegonzalez/dotenv" />
+      <path value="$PROJECT_DIR$/myapp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/myapp/vendor/wyrihaximus/twig-view" />
+      <path value="$PROJECT_DIR$/myapp/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/myapp/vendor/ajgl/breakpoint-twig-extension" />
+      <path value="$PROJECT_DIR$/myapp/vendor/umpirsky/twig-php-function" />
+      <path value="$PROJECT_DIR$/myapp/vendor/seld/cli-prompt" />
+      <path value="$PROJECT_DIR$/myapp/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/myapp/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/myapp/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/myapp/vendor/cakephp/cakephp-codesniffer" />
+      <path value="$PROJECT_DIR$/myapp/vendor/cakephp/cakephp" />
+      <path value="$PROJECT_DIR$/myapp/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/myapp/vendor/cakephp/plugin-installer" />
+      <path value="$PROJECT_DIR$/myapp/vendor/cakephp/migrations" />
+      <path value="$PROJECT_DIR$/myapp/vendor/cakephp/bake" />
+      <path value="$PROJECT_DIR$/myapp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/myapp/vendor/cakephp/chronos" />
+      <path value="$PROJECT_DIR$/myapp/vendor/cakephp/debug_kit" />
+      <path value="$PROJECT_DIR$/myapp/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/myapp/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/process" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cakephp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakephp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakephp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakephp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakephp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a56c4e7-272b-4422-883d-e3561b499fb5" name="Default" comment="" />
+      <created>1531219824211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531219824211</updated>
+      <workItem from="1531219837457" duration="1275000" />
+      <workItem from="1531225226898" duration="735000" />
+      <workItem from="1531228051098" duration="1453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3463000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1340" height="698" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/ErrorController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Application.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="59" column="83" lean-forward="true" selection-start-line="59" selection-start-column="83" selection-end-line="59" selection-end-column="83" />
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+          <caret line="68" column="61" lean-forward="true" selection-start-line="68" selection-start-column="61" selection-end-line="68" selection-end-column="61" />
+          <caret line="66" column="80" selection-start-line="66" selection-start-column="80" selection-end-line="66" selection-end-column="80" />
+          <caret line="66" column="85" selection-start-line="66" selection-start-column="85" selection-end-line="66" selection-end-column="85" />
+          <caret line="66" column="92" lean-forward="true" selection-start-line="66" selection-start-column="92" selection-end-line="66" selection-end-column="92" />
+          <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <caret line="73" column="6" lean-forward="true" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <caret line="75" column="43" lean-forward="true" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+          <caret line="66" column="53" lean-forward="true" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="53" />
+          <folding>
+            <element signature="e#817#838#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/ErrorController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Application.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#817#838#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Application.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/ErrorController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/src/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="77" selection-end-column="43" />
+          <folding>
+            <element signature="e#817#838#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="315" column="14" lean-forward="true" selection-start-line="314" selection-start-column="7" selection-end-line="315" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
